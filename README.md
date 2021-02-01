@@ -23,4 +23,4 @@ Please see follow screenshots! -
 - endhtml1.PNG
 - endhtmllocalStorage.PNG
 - endhtmlsavingtolocalStorage.PNG
-***IF you review highscores.html you can also see them saving to the leaderboard there or screenprint "LeaderboardLocalStorage.PNG"
+***IF you review highscores.html you can also see them saving to the leaderboard there or screen print "LeaderboardLocalStorage.PNG"
