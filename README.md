@@ -1,6 +1,6 @@
 Beach Destinations Quiz!
 I have created a beach destinations quiz.
-There are multiple html css and js files.
+There are multiple html, css, and js files.
 
 Following files:
 index.html
@@ -9,7 +9,6 @@ highscores.html
 end.html
 style.css
 highscores.css
-end.css
 highscores.js
 end.js
 

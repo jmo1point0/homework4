@@ -141,7 +141,7 @@
   }
   startQuiz()
 
-  var scoreList = JSON.parse (localStorage.scoreList)
+  var scoreList = JSON.parse (localStorage.getItem('scoreList'))
 
   for (let index = 0; index < scoreList.length; index++) {
 
